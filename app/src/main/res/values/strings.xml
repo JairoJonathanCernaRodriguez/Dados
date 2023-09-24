@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="btn_roller">Roll</string>
+    <string name="image_cara_1">1</string>
+    <string name="image_cara_2">2</string>
+    <string name="imagesResource2">3</string>
+</resources>
